@@ -1,0 +1,14 @@
+to run the PlaylistManager.java:
+
+install java IDK 19 or above,
+install a Mysql Connector/J and add it to the library of PlaylistManager.java,
+
+to use the program:
+
+Users must make login or create a new user to create a new playlist.
+Logged-in username is displayed in left up corner of application.
+User can select songs from dropdown menu in "Create Playlist" tab. 
+They can name their playlists and see user name and song durations in "Create Playlist" tab.
+Also they can check the songs with their album, artist and duration by looking at "All Songs" tab.
+Users can see created playlists in the "Created Playlists" tab.
+"Created Playlists" tab is instantly refresed every time user adds new songs to new playlists or already existing one.
