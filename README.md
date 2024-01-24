@@ -4,6 +4,6 @@
   Database: MySQL
   Programming: JAVA
 
-#Install Connector/J to connect to MySQL Databasec
+#Install Connector/J to connect to MySQL Database
 
 #Create a database using .sql file provided and modify the credentials inside the PlaylistManager.java
